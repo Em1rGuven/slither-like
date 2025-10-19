@@ -1,3 +1,3 @@
 To start:
 ```bash
-$ go run . -r room1
+$ go run . -p emir -r room1
